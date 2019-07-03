@@ -25,8 +25,8 @@
 
          Additional repositories can be added using the "repositories" element.
     -->
-	<androidPackage spec="io.humanteq.hqsdk:hqsdk-core:1.2.2-alpha06"/>
-	<androidPackage spec="io.humanteq.hqsdk:hqsdk-apps:1.2.2-alpha06"/>
+	<androidPackage spec="io.humanteq.hqsdk:hqsdk-core:1.2.2-alpha08-fix2"/>
+	<androidPackage spec="io.humanteq.hqsdk:hqsdk-apps:1.2.2-alpha08"/>
 	<androidPackage spec="com.google.code.gson:gson:2.8.5"/>
   </androidPackages>
 </dependencies>
